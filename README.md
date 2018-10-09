@@ -7,9 +7,9 @@ Hands On and Labs for newcomers at OCTO Technology Australia
 
 As you know at OCTO we love technology.
 
-What are those foundations? A list of technology we consider that everybody **at OCTO must know.
-This **list is minimalist** on purpose. The goal is to kick-start yourself if you need on all of them, not to make you a master in a few hours.
-Obviously, you can dig as much as you want to after on any of them and help us to update its content or suggest new topics: Pull Request accepted :)
+What are tech foundations? A list of technology and concepts that **everybody at OCTO must know**.
+This **list is minimalist** on purpose. The goal is to kick-start yourself if you need on all of them, not to make yourself a master in a few hours.
+Obviously, you can dig as much as you want to in any of them, and can also help us to update the content or suggest new topics: Pull Request accepted :)
 
 Welcome on-board!
 
@@ -17,7 +17,7 @@ Welcome on-board!
 
 ### Newcomers trainings
 
-These trainings should be part of your welcome checklist, check with your mentor to know when will be the next session:
+These trainings should be part of your welcome checklist, check with your mentor to know when the next session will be:
 
 - **Consulting training**
 - **Agile methodology training**
