@@ -26,14 +26,14 @@ These trainings should be part of your welcome checklist, check with your mentor
 ### Tech Labs
 
 #### Basics
-- **Hand-on git**, play with git: merge vs rebase, reflogs, workflows, etc (not  publically shared yet)
-- **Shell Scripts 101**, tame your terminal, basic commands, basics scripts (not  publically shared yet)
+- **[Hand-on git](https://github.com/octo-technology-downunder/git-command-line-lab)**, play with git: merge vs rebase, reflogs, workflows, etc (not  publically shared yet)
+- **[Shell Scripts 101](https://github.com/octo-technology-downunder/command-line-shell-scripts-lab)**, tame your terminal, basic commands, basics scripts (not  publically shared yet)
 
 #### AWS
 - **AWS basics**: S3, EC2, IAM, CloudFormation (not  publically shared yet)
 - **AWS serverless**: Lambda, DynamoDB, API Gateway, Serverless (not  publically shared yet)
 
 #### GCP
-- **[GCP Basics](https://github.com/ealliaume/gcp-compute-engine-autoscaling-lab)**: Cloud Shell, Cloud Storage, Compute Engine, Instance Template, Instance Group, Load Balancer
-- **[GCP App Engine](https://github.com/ealliaume/gcp-app-engine-flex-with-go)**: deploy a Go application using the google cloud SDK, play with versions and traffic splitting
+- **[GCP Basics](https://github.com/octo-technology-downunder/gcp-compute-engine-autoscaling-lab)**: Cloud Shell, Cloud Storage, Compute Engine, Instance Template, Instance Group, Load Balancer
+- **[GCP App Engine](https://github.com/octo-technology-downunder/gcp-app-engine-flex-with-go)**: deploy a Go application using the google cloud SDK, play with versions and traffic splitting
 
