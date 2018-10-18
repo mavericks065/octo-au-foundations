@@ -26,8 +26,8 @@ These trainings should be part of your welcome checklist, check with your mentor
 ### Mandatory Tech Labs
 
 #### Basics
-- **[Hand-on git](https://github.com/octo-technology-downunder/git-command-line-lab)**, play with git: merge vs rebase, reflogs, workflows, etc (not  publically shared yet)
-- **[Shell Scripts 101](https://github.com/octo-technology-downunder/command-line-shell-scripts-lab)**, tame your terminal, basic commands, basics scripts (not  publically shared yet)
+- **[Hand-on git](https://github.com/octo-technology-downunder/git-command-line-lab)**: play with git: merge vs rebase, reflogs, workflows, etc (not  publically shared yet)
+- **[Shell Scripts 101](https://github.com/octo-technology-downunder/command-line-shell-scripts-lab)**: tame your terminal, basic commands, basics scripts (not  publically shared yet)
 
 #### AWS
 - **AWS basics**: S3, EC2, IAM, CloudFormation (not  publically shared yet)
@@ -42,6 +42,6 @@ These trainings should be part of your welcome checklist, check with your mentor
 
 #### Big Data
 
-- **[Spark 2.x and AWS EMR*](https://github.com/ealliaume/spark-sql-kata)*: Play with Spark SQL in Scala, and deploy your job on AWS Elastic Map Reduce
+- **[Spark 2.x and AWS EMR](https://github.com/ealliaume/spark-sql-kata)**: Play with Spark SQL in Scala, and deploy your job on AWS Elastic Map Reduce
 
 
