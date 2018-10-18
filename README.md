@@ -19,7 +19,7 @@ Welcome on-board!
 
 These trainings should be part of your welcome checklist, check with your mentor to know when the next session will be:
 
-- **Consulting training**
+- **Consulting and data protection training**
 - **Agile methodology training**
 - **Software Crafsmanship training**
 
