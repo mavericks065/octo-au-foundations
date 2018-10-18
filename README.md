@@ -42,6 +42,6 @@ These trainings should be part of your welcome checklist, check with your mentor
 
 #### Big Data
 
-- **Spark 2.x and AWS EMR**: Play with Spark SQL in Scala, and deploy your job on AWS Elastic Map Reduce
+- **[Spark 2.x and AWS EMR*](https://github.com/ealliaume/spark-sql-kata)*: Play with Spark SQL in Scala, and deploy your job on AWS Elastic Map Reduce
 
 
