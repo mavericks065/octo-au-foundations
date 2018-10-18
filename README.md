@@ -23,7 +23,9 @@ These trainings should be part of your welcome checklist, check with your mentor
 - **Agile methodology training**
 - **Software Crafsmanship training**
 
-### Mandatory Tech Labs
+---
+
+### Foundations Tech Labs
 
 #### Basics
 - **[Hand-on git](https://github.com/octo-technology-downunder/git-command-line-lab)**: play with git: merge vs rebase, reflogs, workflows, etc (not  publically shared yet)
@@ -37,6 +39,7 @@ These trainings should be part of your welcome checklist, check with your mentor
 - **[GCP Basics](https://github.com/octo-technology-downunder/gcp-compute-engine-autoscaling-lab)**: Cloud Shell, Cloud Storage, Compute Engine, Instance Template, Instance Group, Load Balancer
 - **[GCP App Engine](https://github.com/octo-technology-downunder/gcp-app-engine-flex-with-go)**: deploy a Go application using the google cloud SDK, play with versions and traffic splitting
 
+---
 
 ### Optional Tech Labs
 
