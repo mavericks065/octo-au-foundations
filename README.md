@@ -28,7 +28,7 @@ These trainings should be part of your welcome checklist, check with your mentor
 ### Foundations Tech Labs
 
 #### Basics
-- **[Hand-on git](https://github.com/octo-technology-downunder/git-command-line-lab)**: play with git: merge vs rebase, reflogs, workflows, etc (not  publically shared yet)
+- **[Hand-on git](https://github.com/octo-technology-downunder/git-command-line-lab)**: play with git: merge vs rebase, reflogs, workflows, etc (not  publically shared yet). If you feel ready, [let's play this Git Game](https://github.com/git-game/git-game)!
 - **[Shell Scripts 101](https://github.com/octo-technology-downunder/command-line-shell-scripts-lab)**: tame your terminal, basic commands, basics scripts (not  publically shared yet)
 
 #### AWS
