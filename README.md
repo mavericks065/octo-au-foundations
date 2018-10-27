@@ -34,7 +34,9 @@ When you feel ready, [let's play this Git Game](https://github.com/git-game/git-
 - **[Shell Scripts 101](https://github.com/octo-technology-downunder/command-line-shell-scripts-lab)**: tame your terminal, basic commands, basics scripts (not  publically shared yet)
 
 #### AWS
-- **AWS basics**: S3, EC2, IAM, CloudFormation (not  publically shared yet)
+- **AWS basics**:
+    - [S3](https://github.com/octo-technology-downunder/aws-labs-s3)
+    - EC2, IAM, CloudFormation (not  publically shared yet)
 - **AWS serverless**: Lambda, DynamoDB, API Gateway, Serverless (not  publically shared yet)
 
 #### GCP
