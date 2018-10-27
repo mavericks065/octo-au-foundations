@@ -35,7 +35,7 @@ When you feel ready, [let's play this Git Game](https://github.com/git-game/git-
 
 #### AWS
 - **AWS basics**:
-    - [S3](https://github.com/octo-technology-downunder/aws-labs-s3)
+    - **[S3](https://github.com/octo-technology-downunder/aws-labs-s3)**: Working with buckets and objects, Console and CLI, Permissions, Versioning, Static website hosting
     - EC2, IAM, CloudFormation (not  publically shared yet)
 - **AWS serverless**: Lambda, DynamoDB, API Gateway, Serverless (not  publically shared yet)
 
