@@ -44,6 +44,9 @@ When you feel ready, [let's play this Git Game](https://github.com/git-game/git-
 - **[GCP Basics](https://github.com/octo-technology-downunder/gcp-compute-engine-autoscaling-lab)**: Cloud Shell, Cloud Storage, Compute Engine, Instance Template, Instance Group, Load Balancer
 - **[GCP App Engine](https://github.com/octo-technology-downunder/gcp-app-engine-flex-with-go)**: deploy a Go application using the google cloud SDK, play with versions and traffic splitting
 
+#### Azure
+- **[Azure Basics](https://github.com/octo-technology-downunder/azure-webstatic-vms-lab)**: Host static web site, create Load balanced VMs
+
 ---
 
 ### Optional Tech Labs
