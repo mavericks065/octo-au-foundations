@@ -38,7 +38,9 @@ When you feel ready, [let's play this Git Game](https://github.com/git-game/git-
     - **[S3](https://github.com/octo-technology-downunder/aws-labs-s3)**: Working with buckets and objects, Console and CLI, Permissions, Versioning, Static website hosting
     - **[EC2](https://github.com/octo-technology-downunder/aws-labs-ec2)**: Working with EC2 instances, building standalone and load balanced websites
     - IAM, CloudFormation (not  publically shared yet)
-- **AWS serverless**: Lambda, DynamoDB, API Gateway, Serverless (not  publically shared yet)
+- **AWS serverless**: 
+    - **[Lambda](https://github.com/octo-technology-downunder/aws-labs-lambda)**: Creating Lambda functions, handling events, writing lambda code in Node.js
+    - DynamoDB, API Gateway, Serverless (not  publically shared yet)
 
 #### GCP
 - **[GCP Basics](https://github.com/octo-technology-downunder/gcp-compute-engine-autoscaling-lab)**: Cloud Shell, Cloud Storage, Compute Engine, Instance Template, Instance Group, Load Balancer
