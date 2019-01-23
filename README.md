@@ -49,6 +49,8 @@ When you feel ready, [let's play this Git Game](https://github.com/git-game/git-
 #### Azure
 - **[Azure Basics](https://github.com/octo-technology-downunder/azure-webstatic-vms-lab)**: Host static web site, create Load balanced VMs
 
+#### Kubernetes
+- **[Kubernetes Basics](https://github.com/octo-technology-downunder/kubernetes-labs)**: Deploy a sample application on the Google Kubernetes Engine and learn the basics of Kubernetes
 ---
 
 ### Optional Tech Labs
