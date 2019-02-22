@@ -33,6 +33,10 @@ When you feel ready, [let's play this Git Game](https://github.com/git-game/git-
 
 - **[Shell Scripts 101](https://github.com/octo-technology-downunder/command-line-shell-scripts-lab)**: tame your terminal, basic commands, basics scripts (not  publically shared yet)
 
+#### Docker
+- **[Docker hands on](https://github.com/octo-technology-downunder/docker-lab)**: Let's discover Docker and what containers are... You'll learn how to run them, deal with networks, volumes and even use Docker-compose !
+
+
 #### AWS
 - **AWS basics**:
     - **[S3](https://github.com/octo-technology-downunder/aws-labs-s3)**: Working with buckets and objects, Console and CLI, Permissions, Versioning, Static website hosting
